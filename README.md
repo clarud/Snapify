@@ -22,11 +22,11 @@ Snapify is a full-stack photobooth web application that captures webcam images, 
 Here are some screenshots showcasing the app:
 
 - **Photostrip:**  
-  ![Photostrip](/photostrip.png)
+  ![Photostrip](/public/photostrip.png)
 - **Photostrip (Sepia):**  
-  ![Photostrip Sepia](/photostripSepia.png)
+  ![Photostrip Sepia](/public/photostripSepia.png)
 - **User Interface:**  
-  ![UI Screenshot](/UI.png)
+  ![UI Screenshot](/public/UI.png)
 
 ## Technologies Used
 
